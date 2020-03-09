@@ -1,4 +1,4 @@
-# Alienware-Aurora-R7---Open-Core
+# Alienware-Aurora-R7-Open-Core
  macOS Catalina 10.15.3
 
 Full working macOS for DELL Alienware Aurora R7 
