@@ -13,12 +13,17 @@ Open Core
 Alienware Aurora R7 -
 
 Windows 10 Pro -
+```
 1TB - Samsung EVO Plus NVMe
-12TB - Data Sata Drive
+```
+```
+12TB - WD (White Label) Sata Drive
+```
 
 macOS Catalina 10.15.3
+```
 1TB - Samsung EVO Plus NVMe
-
+```
 3.2Ghz 6-Core i7-8700
 Turbo Speed 4.6 GHz
 
