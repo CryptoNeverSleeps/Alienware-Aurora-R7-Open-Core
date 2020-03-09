@@ -1,36 +1,18 @@
-# Alienware-Aurora-R7-Open-Core
- macOS Catalina 10.15.3
+# Alienware Aurora R7 - Hackintosh
 
-Full working macOS for DELL Alienware Aurora R7 
+#  - Thank You All For Your Contributions
 
+## 
 
-**03/08/2020**
+| -------- | Alienware Aurora R7                                                     |
+| -------- | ------------------------------------------------------------ |
+| OS | macOS Catalina 10.15.3                 |
+| Processor  | 8th Generation Intel® Core™ i7-8700 - Coffee Lake                                   |
+| Memory    | 48GB DDR4-2133MHz, 2x8GB, 2x16GB                                                       |
+| Storage     | Samsung 970 Evo NVMe M.2 SSD 1TB                            |
+| Graphics   | Saphire Nitro RX 580 - 8GB                          |                                            |                                            |
+| Wi-Fi | DW1820A -  Part #: CN-08PKF4|
 
-Updated all kext to latest version.
+Everything working 100%
 
-Open Core 
-
-Alienware Aurora R7 -
-
-Windows 10 Pro -
-```
-1TB - Samsung EVO Plus NVMe
-```
-```
-12TB - WD (White Label) Sata Drive
-```
-
-macOS Catalina 10.15.3
-```
-1TB - Samsung EVO Plus NVMe
-```
-3.2Ghz 6-Core i7-8700
-Turbo Speed 4.6 GHz
-
-48GB DDR4 2133 Memory
-
-Saphire Nitro:
-AMD RX 580 (8GB) Graphics Card
-
-Wireless Card:
-DW1820A - Part #: CN-08PKF4
+Open Core 0.5.6
