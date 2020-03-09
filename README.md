@@ -1,6 +1,5 @@
 # Alienware Aurora R7 - Hackintosh
 
-#  - Thank You All For Your Contributions
 
 ## 
 
